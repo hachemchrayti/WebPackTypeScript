@@ -11,4 +11,7 @@ Step 3: install webpack and its cli and loader via ths command : (-D pour dire d
  in the npm dependencies ) via the command : 
  npm install typescript -D
  
- 
+to run on dev mode : npm run server
+to run build mode : npm run build 
+
+
