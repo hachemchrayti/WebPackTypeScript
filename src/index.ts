@@ -9,6 +9,4 @@ form.addEventListener('submit', (e) => {
 });
 
 
-const person:any={};
-console.log(person.speak());
 
